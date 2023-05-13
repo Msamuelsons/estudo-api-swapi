@@ -4,7 +4,7 @@
  - Múltiplas requisições
  - Listas
  - Fetch
- - Funções Assíncronas
+ - Funções Assíncronas <br>
  [SWAPI](https://swapi.dev/) API de estudo utilizada
 
  
